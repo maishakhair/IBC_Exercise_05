@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2 Iron Man
 1 Titanic
 3 Shaolin Soccer
@@ -7,3 +8,14 @@
 6 Her
 9 Joker
 8 The Dark Knight
+=======
+4. Iron Man
+5. Titanic
+6. Shaolin Soccer
+7. Friends
+8. Family
+9. Doctor
+1. Her
+3. Joker
+2. The Dark Knight
+>>>>>>> 990e068ec5ea89f412905678ed318bc8c943cc0f

@@ -1,0 +1,4 @@
+1. cat wages.csv | cut -d , -f 1,2 | tr "," " "| sort -V
+2.1 cat wages.csv | cut -d , -f 1,2,4 | tr "," " " | sort -V -k3 | tail -2 | head -1
+2.2 cat wages.csv | cut -d , -f 1,2,4 | tr "," " " | sort -V -k3 | head -1
+3.
